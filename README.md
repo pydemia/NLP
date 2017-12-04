@@ -24,5 +24,13 @@ make check
 sudo make install
 ```
 
+`automake` Error:
+```sh
+./autogen.sh
+```
 
+`libmecab.so.2` Not Found:
+```sh
+sudo ldconfig
+```
 
