@@ -41,3 +41,11 @@ which mecab
 mecab -d /usr/local/lib/mecab/dic/mecab-ko-dic
 ```
 
+
+## Run for `koNLPy`
+
+```sh
+bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)
+```
+
+
