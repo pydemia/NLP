@@ -34,3 +34,10 @@ sudo make install
 sudo ldconfig
 ```
 
+```sh
+which mecab
+/usr/local/bin/mecab
+
+mecab -d /usr/local/lib/mecab/dic/mecab-ko-dic
+```
+
